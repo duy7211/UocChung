@@ -73,3 +73,4 @@ public class Activity2 extends AppCompatActivity {
         btnExit = findViewById(R.id.btnExit);
     }
 }
+/// Test
